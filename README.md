@@ -6,8 +6,9 @@ Plugin to improve and organize the comunication between host manager and possibl
 
 ## Next steps
 
-* Manage rooms (types, descriptions, prices, etc)
-* Create requests
+* Manage rooms (types, descriptions, prices, etc);
+* Create requests;
+* Create form to antecipate check-in;
 
 ## Credits
 This plugins was made under [WordPress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate)
